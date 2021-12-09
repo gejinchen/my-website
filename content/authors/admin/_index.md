@@ -7,6 +7,7 @@ interests:
   - Machine Learning
   - Deep Learning
   - Computer Vision
+  - Computer Graphics
 social:
   - icon: envelope
     icon_pack: fas
