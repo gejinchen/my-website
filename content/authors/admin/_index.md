@@ -1,6 +1,6 @@
 ---
 title: Jinchen Ge
-role: Professor of Artificial Intelligence
+role: AI Engineer
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/jinchen-ge-884784139/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Graphcore
+    url: https://www.graphcore.ai/
 education:
   courses:
     - course: PhD in Artificial Intelligence
