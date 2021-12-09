@@ -44,4 +44,4 @@ highlight_name: true
 ---
 I am Jinchen Ge, an AI engineer at Graphcore. Prior to Graphcore, I was a CS MPhil student at the University of Cambridge, under the supervision of [Nicholas Lane](http://niclane.org/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
