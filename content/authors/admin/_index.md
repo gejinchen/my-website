@@ -1,7 +1,7 @@
 ---
 title: Jinchen Ge
 role: AI Engineer
-avatar_filename: logo.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
