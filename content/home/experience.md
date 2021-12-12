@@ -26,15 +26,14 @@ experience:
     company: Graphcore
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Bristol
+    date_start: '2021-09-13'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Implement and optimise machine learning applications using Graphcore’s IPUs.
+        * Support machine learning innovators such as research groups or tech start-ups with their state-of-the-art applications.
         
   - title: Professor of Semiconductor Physics
     company: University X
