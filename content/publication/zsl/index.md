@@ -17,7 +17,7 @@ abstract: The Activity Recognition Chain generally precludes the challenging
   with the amount of data used. More generally, our results indicate that
   exploiting information from the video domain for IMU-based tasks is a
   promising direction, with tangible returns in a zero-shot learning scenario.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -40,8 +40,7 @@ title: Zero-Shot Learning for IMU-Based Activity Recognition Using Video Embeddi
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
