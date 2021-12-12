@@ -35,14 +35,19 @@ experience:
         * Implement and optimise machine learning applications using Graphcore’s IPUs.
         * Support machine learning innovators such as research groups or tech start-ups with their state-of-the-art applications.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Development Intern
+    company: Suzhou Maxnet Network Security Technology
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Suzhou, China
+    date_start: '2018-6-10'
+    date_end: '2018-8-10'
+    description: |2-
+        Responsibilities include:
+        
+        * Designed and implemented deep-learning-based captcha breaking systems for various captcha strategies with different
+        symbols, different interactive patterns, etc.
+        * Actively involved in the localization of the financial information software - Thomson Reuters Eikon.
 
 design:
   columns: '2'
