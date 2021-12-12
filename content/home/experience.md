@@ -25,7 +25,7 @@ experience:
   - title: Graduate AI Engineer
     company: Graphcore
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: Bristol
     date_start: '2021-09-13'
     date_end: ''
