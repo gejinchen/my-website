@@ -43,9 +43,9 @@ experience:
     date_start: '2018-06-10'
     date_end: '2018-08-10'
     description: |2-
-        * Designed and implemented deep-learning-based captcha breaking systems for various captcha strategies with different
-        symbols, different interactive patterns, etc.
-        * Actively involved in the localization of the financial information software - Thomson Reuters Eikon.
+      * Designed and implemented deep-learning-based captcha breaking systems for various captcha strategies with different
+      symbols, different interactive patterns, etc.
+      * Actively involved in the localization of the financial information software - Thomson Reuters Eikon.
 
   - title: Python Development Intern
     company: Unis-WDC Storage
@@ -55,9 +55,9 @@ experience:
     date_start: '2017-06-10'
     date_end: '2017-08-10'
     description: |2-
-        * Worked with other 4 team members on developing and maintaining a RESTful back-end, which enables object-based
-        storage on storage clusters.
-        * Implemented a flexible update system and designed a key distribution system.
+      * Worked with other 4 team members on developing and maintaining a RESTful back-end, which enables object-based
+      storage on storage clusters.
+      * Implemented a flexible update system and designed a key distribution system.
 
 design:
   columns: '2'
