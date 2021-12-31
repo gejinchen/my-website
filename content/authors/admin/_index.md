@@ -15,7 +15,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/schhp?hl=zh-CN
+    link: https://scholar.google.co.uk/citations?user=OEh89dYAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/gejinchen
